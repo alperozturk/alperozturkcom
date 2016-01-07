@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://alperozturk.github.io/alperozturkcom
-baseurl: /
+url: http://alperozturk.github.io
+baseurl: /alperozturkcom
 title: Alper Öztürk
 author: Alper Öztürk
 description: Personal blog and resume
