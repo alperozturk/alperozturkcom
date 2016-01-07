@@ -11,15 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://alperozturk.github.io/
-baseurl: /alperozturkcom/
-title: Alper Öztürk
-author: Alper Öztürk
+url: http://username.github.io/
+baseurl: /sustain/
+title: Chris Turner
+author: Chris Turner
 description: Personal blog and resume
 avatar: profile.png
-email: mail@alperozturk.com
-twitter: alperozturk
-linkedin: alperozturk
+email: yourname@email.com
+github: biomadeira/sustain # username
+twitter: username
+linkedin: username
+stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: username
 google_analytics: UA-69391421-1
