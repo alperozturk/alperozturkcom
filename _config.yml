@@ -21,8 +21,8 @@ email: mail@alperozturk.com
 twitter: alperozturk
 linkedin: alperozturk
 #Comment out if you don't want disqus 
-#disqus: username
-#google_analytics: UA-69391421-1
+disqus: username
+google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
