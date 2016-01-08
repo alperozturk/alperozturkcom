@@ -18,12 +18,12 @@ author: Alper Öztürk
 description: Personal blog and resume
 avatar: profile.png
 email: mail@alperozturk.com
-github: biomadeira/sustain # username
+#github: biomadeira/sustain  username
 twitter: alperozturk
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+linkedin: alperozturk
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+#disqus: username
 #google_analytics: UA-69391421-1
 
 
