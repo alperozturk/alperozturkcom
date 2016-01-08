@@ -18,13 +18,13 @@ author: Alper Öztürk
 description: Personal blog and resume
 avatar: profile.png
 email: mail@alperozturk.com
-#github: biomadeira/sustain  username
+github: biomadeira/sustain  username
 twitter: alperozturk
 linkedin: alperozturk
-#stackoverflow: username   #e.g: users/2735833/proton1h1
+stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-#disqus: username
-#google_analytics: UA-69391421-1
+disqus: username
+google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
